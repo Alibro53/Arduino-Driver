@@ -1,5 +1,3 @@
-# Arduino-Driver
-Arduino Windows 10 Driver
 If you bought a cheap clone Arduino and need a driver for Windoze then this should work.
 Go to the Sparkfun website and search for CH340 Driver
 Scroll down to the "Drivers if you need them" section and download the CH341SER Executable
